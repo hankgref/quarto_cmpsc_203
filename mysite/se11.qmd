@@ -1,0 +1,22 @@
+
+
+---
+title: "SE11: Testing Techniques"
+---
+
+SUMMARY OF CONTENT:
+
+This chapter of the "Software Engineering at Google" book dives into the topic of testing techniques in programming. Testing is, of course, important, so the question with testing revolves around how you do it. 
+
+The article goes in-depth about the various ways that software can be tested. For example, some software can be tested automatically, while other software requires a more in-depth examination in the search for errors. Deciding the size of the test is ultimately the first thing that should be done when deciding to create one.
+
+The complexity of a test is important, as well. The complexity of a test can be determined by how many behaviors are being tested, if a certain input is being tested, an observable output or behavior is being targeted, or if it is being tested in a controlled environment. Ultimately, because of the wide variety of factors which go into testing, it's incredibly varied in what suits each individual test case.
+
+
+PERSONAL REFLECTION:
+
+Testing is incredibly varied, with several different types and variations of them which can be utilized based on what is being tested. No matter which type of testing is selected, all of them are important.
+
+RELEVANT ACTION ITEMS:
+
+As the functions and scripts in our projects vary in size and complexity, as well as what parts of the Chasten project they affect, we can utilize the different and varied types of testing in our software development team.

@@ -1,0 +1,21 @@
+
+
+---
+title: "SE3: Best Practices for Team-Based Software Engineering"
+---
+
+SUMMARY OF CONTENT:
+
+In the ["How to Work Well on Teams"](https://abseil.io/resources/swe-book/html/ch02.html) article in the Software Engineering at Google book, we learn about how software development is truly a team development and all of the intricacies which can stem from that.
+
+Many people that you will be working with as a software engineer are inherently flawed. Some of them will be insecure, and others will be convinced that they follow the mold of the "mythical genius" who supposedly designed operating systems singlehandedly. Part of being a good team member is learning how to deal with and communicate with the people who think this way. Understanding different perspectives is key.
+
+
+PERSONAL REFLECTION:
+
+As a software development team, it is important that we understand the value of working on a team. There are many varied and diverse types of people who work on a software development team, and we should be aware of this when working on our projects.
+  
+
+RELEVANT ACTION ITEMS:
+
+As software engineers, we have to acknowledge the different people that we work with in our teams. We should engage in more collaborative practices as a team and avoid only working on isolated test cases and features.

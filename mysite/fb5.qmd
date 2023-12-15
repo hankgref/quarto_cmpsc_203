@@ -1,0 +1,19 @@
+
+
+---
+title: "FB5: Mutation-based Fuzzing"
+---
+
+SUMMARY OF CONTENT:
+
+Mutation-based fuzzing is a fuzzing tool which utilizes "mutations", or random alterations in code, to create tests for inputs. We can utilize various inputs and variables to test different and valid mutations for our tool.
+
+PERSONAL REFLECTION:
+
+We can utilize mutations in our fuzzing as a way to ensure that our script will not break down if something is incorrectly typed into the input. Multiple different variables can be used to achieve this.
+
+
+RELEVANT ACTION ITEMS:
+
+By utilizing mutation-based testing, our Chasten tool can account for a wide array of different variables and inputs when ran.
+

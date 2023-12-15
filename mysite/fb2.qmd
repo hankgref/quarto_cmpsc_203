@@ -1,0 +1,24 @@
+
+
+---
+title: "FB2: Applying Code Coverage"
+---
+
+SUMMARY OF CONTENT:
+
+The chapter ["Code Coverage"](https://www.fuzzingbook.org/html/Coverage.html) is about measuring the effectiveness of software development tests and attempting to count the number of bugs and other mistakes in the code. This is done through basic fuzzing and an understanding of program execution.
+
+By introducing a Python function which utilizes CGI-encoded strings which are found in URLs. CGI decoding (and encoding) transforms certain characters such as spaces into alternative characters which allows for inputs to be registered as a string. To systematically test this decoder, we have two options: black-box testing and white-box testing.
+
+Black-box testing differs from white-box testing in that black-box testing is based around deriving the tests of the code from the specification of the CGI decoder, whereas white-box testing derives itself from the implementation of the structure.
+
+
+PERSONAL REFLECTION:
+
+Knowing how to implement coverage checks is extremely important for any programming team, and ours is no exception. Efficient testing allows for a wider array of accepted inputs as well as the amount of inputs that can be accepted simultaneously.
+
+
+RELEVANT ACTION ITEMS:
+
+By utilizing the Fuzzing Book tool, we can allow our Chasten tool to accept more and varied inputs. This will allow our tool to be more productive when establishing script outputs.
+

@@ -1,0 +1,20 @@
+
+
+---
+title: "FB3: Fuzzing"
+---
+
+SUMMARY OF CONTENT:
+
+Fuzzing is a method of testing computer software so that you can be aware of potential memory leaks or input errors. Essentially, fuzzing generates several random inputs at once and then tests the software that it's running on to check what happens when invalid inputs are ran.
+
+
+PERSONAL REFLECTION:
+
+We can utilize fuzzing as a way to ensure that our script will not break down if something is incorrectly typed into the input.
+
+
+RELEVANT ACTION ITEMS:
+
+By utilizing the Fuzzing Book tool, this process can be done automatically.
+

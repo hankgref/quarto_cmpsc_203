@@ -1,0 +1,23 @@
+
+
+---
+title: "FB1: Introduction to Software Testing"
+---
+
+SUMMARY OF CONTENT:
+
+The chapter "Introduction to Software Testing" in the Fuzzing Book shows us an introductory explanation as to what software testing is and how the process works. It gives us a simple example of a rudimentary square root function and walks us through the testing process required to authenticate its results.
+
+To do this, the equation is first shown to us, then we are asked to use our understanding of Python, run the function, and then debug and check the function before executing it. We are also recommended to run this test repeatedly, as it can be done so again and again with no issue. We can also generate tests with values and run-time verifications to ensure that there will be a correct result.
+
+The chapter also goes into detail about the limits of testing. The article makes it clear that we are always checking for a finite set of inputs, meaning that there may be inputs which we have not tested which may make our function fail. There are methods of testing we can use to help alleviate this, but ultimately the lack of infinite access to inputs is a problem with testing itself.
+
+PERSONAL REFLECTION:
+
+Software testing is important for us as software developers because it is an important process to ensure that our software is accurate and does exactly what we want it to do.
+
+
+RELEVANT ACTION ITEMS:
+
+By utilizing the Fuzzing Book tool, we can utilize software testing as an effective measure to ensure all of our code works as intended in the future. An effective way for us to do this is for us to write down and keep track of all of our test cases.
+

@@ -1,0 +1,20 @@
+
+
+---
+title: "SE9: Code Review"
+---
+
+SUMMARY OF CONTENT:
+
+The chapter "Code Review" is about how computer code is reviewed by people other than the writers. This is usually done by a process in which people in the same engineering team review it before publication or usage. Sometimes, in addition to a process, a tool is used as well to review the code.
+
+This process is known as a "Code review flow". The goal is to get another engineer to say "Looks good to me!". First, the user will write a change to their code. Next, reviewers will open the code up to post comments on it. The author will then proceed to mail the change to another reviewer, which may cause the previous steps to be repeated if the changes were unsatisfactory. After the other reviewers approve of the changes, they will authorize the commit.
+
+
+PERSONAL REFLECTION:
+
+This chapter shows us an important method of ensuring that the code in a file or script is checked to ensure its quality and functionality.
+
+RELEVANT ACTION ITEMS:
+
+As software engineers, we are no stranger to communicating with our peers on the topic of the functionality of our code. Reworking our system so that it aligns more closely to this would certainly be beneficial, and it would likely be easy to integrate.

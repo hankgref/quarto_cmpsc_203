@@ -1,0 +1,22 @@
+
+
+---
+title: "SE8: Style Guides and Rules"
+---
+
+SUMMARY OF CONTENT:
+
+The chapter "Style Guides and Rules" in the Software Engineering at Google book is about the organization rules which most software engineering groups have. These organization rules determine where the files are stored and how the code itself is formatted.
+
+These formatting rules are strict, and considered mandatory. The name "Style guide" can be somewhat of an understatement, given that it is more than "a collection limited to formatting practices" as the article puts it, but rather it is more of an encompassing system which governs their code.
+
+Their style guide is as follows: use as descriptive names as possible. Every coding language has their own rules, as they all have their own strengths, weaknesses, and purposes. Other than this, just follow the externally recognized conventions.
+
+
+PERSONAL REFLECTION:
+
+This chapter shows us how a universal style guide for programming can be significant. It goes over some important stylization rules which allow for improved legibility.
+
+RELEVANT ACTION ITEMS:
+
+We are all programmers as well as software engineers, and for that reason it is on us to ensure that our own software we have programmed is legible for everyone who views it and wants to know what aspects of it mean. For this reason, we should be careful to follow these style guidelines.

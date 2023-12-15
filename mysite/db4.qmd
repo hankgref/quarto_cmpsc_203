@@ -1,0 +1,19 @@
+
+
+---
+title: "DB4: Statistical Debugging"
+---
+
+SUMMARY OF CONTENT:
+
+The fourth chapter of the book "Debugging Book" describes how statistics during debugging work. The premise of the chapter is that there is a statistical correlation between specific events during coding and failures.
+
+By collecting events from tests, exceptions can be analyzed which can be used to indicate failure. These events can be visualized on a table for statistical analysis, thus furthering connections between statistical error and connected events. This information can be collected with a tool called Collector, which works by recording events based on when they occur. After these events are recorded and organized onto a table, the statistical connections can be made.
+
+PERSONAL REFLECTION:
+
+This chapter introduces us to the idea of statistical debugging, and explains how statistics and errors can be traced to have their connections found.
+
+RELEVANT ACTION ITEMS:
+
+Utilizing statistics, we can determine when errors may be made in development for our Chasten and Conveyor tools ahead of time. 

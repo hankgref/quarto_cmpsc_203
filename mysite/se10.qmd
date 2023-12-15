@@ -1,0 +1,21 @@
+
+
+---
+title: "SE10: Documentation"
+---
+
+SUMMARY OF CONTENT:
+
+This chapter of the "Software Engineering at Google" book dives into the topic of documentation in code. Documentation is important as it encompasses every supplemental text that software engineers could need to work on their scripts, such as comments and discussion among teammates.
+
+Documentation is needed because quality documentation is an extremely helpful took for software engineering organizations. As computer code advances and becomes more complex to read, quality documentation can be important in preventing and minimizing errors. 
+
+One other important aspect of documentation is the importance of keeping it clear and consistent. The chapter makes it clear that inconsistent documentation is terrible for anyone attempting to read it. 
+
+PERSONAL REFLECTION:
+
+This chapter gives the reader an important explanation as to why clear documentation is important. As software engineers, we know the value of documentation as it is important to explain to others on our team why documentation is so important.
+
+RELEVANT ACTION ITEMS:
+
+We should establish a universal outline or format for documenting code that ensures consistency across both projects, making it easier for team members to navigate and understand the code. Since different team members might contribute in various ways or focus on different aspects of the code, having a flexible yet standardized documentation format allows for a cohesive and comprehensive overview. Doing this ensures that our code will be more accessible to people working on the tool now and people who will work on it in the future.

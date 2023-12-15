@@ -1,0 +1,22 @@
+
+
+---
+title: "SE12: Unit Testing"
+---
+
+SUMMARY OF CONTENT:
+
+This chapter of the "Software Engineering at Google" book dives into the topic of unit testing. This is a specific kind of testing where productivity is tested, usually in a smaller test. 
+
+Unit tests usually also tend to be easy to write and allow engineers to focus on higher levels on test coverage. Unit tests also usually make it easy to understand what's wrong when they fail, because each test is conceptually simple. They can also serve as documentation and examples.
+
+Unit tests are also usually focused on maintainability because maintainability is important. Preventing things from breaking in programming is understandably important, and unit testing hopes to avert this.
+
+
+PERSONAL REFLECTION:
+
+Unit testing is simple, yet important. Unit tests are centered around preventing scripts from falling apart.
+
+RELEVANT ACTION ITEMS:
+
+As the functions and scripts in our projects vary in size and complexity, as well as what parts of the Chasten project they affect, we can utilize unit testing on the smaller, yet significant, aspects of our Chasten tool.

@@ -1,0 +1,25 @@
+
+
+---
+title: "FB7: Efficient Grammar Fuzzing"
+---
+
+SUMMARY OF CONTENT:
+
+The chapter ["Efficient Grammar Fuzzing](https://www.fuzzingbook.org/html/GrammarFuzzer.html) in the Fuzzing Book is used to describe more advanced fuzzing techniques, in contrast to the simple fuzzing featured in chapter 6. This is where GrammarFuzzer comes in; it's a much more advanced tool which takes a grammar and uses it to produce valid input strings.
+
+By taking several different keyword arguments, the GrammarFuzzer constructor can make use of derivation trees, or a series of branching choices for the tool based off of the input and its contents. FuzzingBook itself contains numerous tools to help make these trees function.
+
+The major difference between simple_grammar_fuzzer() and GrammarFuzzer is the algorithm. GrammarFuzzer utilizes a much longer algorithm, whereas simple_grammar_fuzzer() is, unsurprisingly, simpler.
+
+
+PERSONAL REFLECTION:
+
+Fuzzing already serves an important purpose in our Chasten tool as it is integrated into the tool. GrammarFuzzer as a function allows for much more control over the input and resulting functions than previously used algorithms.
+
+
+RELEVANT ACTION ITEMS:
+
+By switching to GrammarFuzzer, we can utilize more advanced and precise fuzzing into our project.
+
+

@@ -1,0 +1,19 @@
+
+
+---
+title: "SE1: Software Engineering Preface"
+---
+
+SUMMARY OF CONTENT:
+
+The introduction to "Software Engineering at Google" is an in-depth look at the challenges, tools, trials, and processes an organization uses to build and maintain code. It is not, however, meant to cover software design itself, which is stressed early on, instead focusing on the engineering aspects of software. 
+
+PERSONAL REFLECTION:
+
+The content in the introduction to this book is an excellent introduction to the world and culture of software engineering. As someone who is currently working on a software engineering project, I am optimistic that this book will show us engineers in this team some useful information.
+
+RELEVANT ACTION ITEMS:
+
+As software engineers, it's our job to ensure that our software is accessible, functional, and effective. It is also important that we prepare an adaptable base with tools such as DebuggingBook and Chasten, so that our team can be flexible in the face of unforeseen challenges.
+
+

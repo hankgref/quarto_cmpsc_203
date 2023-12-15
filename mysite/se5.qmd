@@ -1,0 +1,19 @@
+
+
+---
+title: "SE5: Engineering for Equity"
+---
+
+SUMMARY OF CONTENT:
+
+The article "Engineering for Equity" goes into detail about how a lack of equality and diversity in Google lead to negative repercussions for their development software. Due to a lack of demographic diversity in the Google engineering team, their products were unable to account for the diversity of their clients and consumers.
+
+The chapter then proceeds to explain how a greater understanding of diversity and equity has positive effects on software engineering and, despite not being enough to truly stop discrimination, is key in making positive steps to engage in a multicultural capacity. No singular approach can fix such a delicate issue so easily, of course, but keeping in mind the potential differences between the developers and the users is an important practice.
+
+PERSONAL REFLECTION:
+
+This chapter gives the reader an important explanation as to why diversity, equity, and understanding others are all important aspects of software engineering. The section describes how in detail software developers and engineers have roles to play in benefitting the world and help a wide, diverse range of clients.
+
+RELEVANT ACTION ITEMS:
+
+As a team we can and should take into ac count different and diverse groups of people who have an interest in using our software. This can allow for Chasten to have a greater and wider userbase.

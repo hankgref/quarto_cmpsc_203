@@ -1,0 +1,22 @@
+
+
+---
+title: "DB2: Tracing Executions"
+---
+
+SUMMARY OF CONTENT:
+
+The second chapter of the book "Debugging Book" describes how tracing executions works and how to observe the state of a program during an execution.
+
+After an identifier is imported, a Tracer can be used. Tracer class functions are tools which allow logging events during program executions. An advanced subclass of these known as EventTracer also allow you to restrict logs to specific criteria.
+
+Tracer class identifiers also allow you to restrict logs to certain events. This is done by only showing the log events if their selected values are changed.
+
+
+PERSONAL REFLECTION:
+
+This chapter introduces us to tracing, a valuable tool for debugging. There are a few different kinds of ways for tracing to work, with many of them focusing on different kinds of debugging.
+
+RELEVANT ACTION ITEMS:
+
+We can take advantage of tracing with our Chasten project to make sure that our debugging. System is well documented.

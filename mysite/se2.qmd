@@ -1,0 +1,25 @@
+
+
+---
+title: "SE2: What Is Software Engineering?"
+---
+
+SUMMARY OF CONTENT:
+
+In a software engineering project, software developers must be aware of the passage of time, scale, and the trade-offs associated with focusing on the necessary changes to the software going forward. Code can be expected to last anywhere from minutes to centuries, with code written by newer, inexperienced developers usually requiring hours or days, but the vast majority of code will need replacing or updating after ten years.
+
+Of course, the purpose of the code also impacts its longevity and usefulness before its replacement. For example, code for mobile applications and games usually only lasts a few years- far shorter than the average few decades. On the other hand, code used by millions of people frequently that serves a basic, yet essential, function may never truly be replaced, such as search engine. 
+The paper also goes into detail on “Hyrum’s Law”. Essentially, the more your software and its functions are used, the more important it is that all of the functions of your software work. The law understands that because of human error and the magnitude of such a potentially huge username, some mistakes that are visible are to be expected. 
+Change is necessary to keep code up to date, as technology and refactoring systems change and progress. If you aim for a system of nothing changing, eventually you will be forced to change your code anyway due to software progressing. Learning to scale your policies so that they are reasonably able to be changed is a large part of programming and developing new software.
+
+The further along you are in software development, the more expensive security can be. It is easier to fix errors and mistakes in your software sooner rather than later, as the cost goes up exponentially. Understanding the necessary trade-offs and costs to take care of these are key.
+
+
+PERSONAL REFLECTION:
+
+The content in this section of the document is excellent at making us focus on the importance of updating our code and keeping it up-to-date with the current refactoring systems and modern hardware. Therefore, we must strive to ensure that every step of our engineering assignment is well programmed and secure for future use, as the more our tool becomes capable of, the more people will notice mistake we make.
+
+
+RELEVANT ACTION ITEMS:
+
+As software engineers, it’s our job to ensure that our software is modern and functional. Therefore, we should keep our tools such as Chasten and PyProject updated whenever possible so that when we do update our code, it is when we have full control over it.

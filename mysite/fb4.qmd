@@ -1,0 +1,20 @@
+
+
+---
+title: "FB4: Mutation Analysis"
+---
+
+SUMMARY OF CONTENT:
+
+Mutations are errors in programming that are deliberately inserted into code in order to check it for errors when ran. There are several ways to do this, many of which are through tools such as MuFunctionAnalyser or MuProgramAnalyzer. MuFunctionAnalyzer is more specific in the mutations that it creates while MuProgramAnalyzer more directly inputs them into the program.
+
+
+PERSONAL REFLECTION:
+
+As Chasten utilizes frequent testing, mutations can be a critical part of checking for errors. This can be utilized by our tools to account for various ways in which programs might have incorrect code.
+
+
+RELEVANT ACTION ITEMS:
+
+This is important to us because Chasten utilizes mutations and mutation-based testing to create and check for controlled errors.
+

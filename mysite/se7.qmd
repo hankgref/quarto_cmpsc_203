@@ -1,0 +1,23 @@
+
+
+---
+title: "SE7: Leading at Scale"
+---
+
+SUMMARY OF CONTENT:
+
+The article "Leading at Scale" goes into detail about how to properly lead a software development team. The article explains that to do this, there are three principles of "leading at scale" to follow; "Always Be Deciding, Always Be Leaving, Always Be Scaling." These are known as "The three Always of Leadership"
+
+"Always Be Deciding": As your management duties increase and your job becomes about strategizing, there are only so many things you can spend your focus on. As a leader, you must choose your software development battles carefully. Identify your blinders, trade-offs, and decisions.
+
+"Always Be Leaving:" It sounds terrible, but leaving at points of failure is not a bad strategy for software development leaders. Leaving projects before they truly fail can dissuade people from joining the projects before they get even worse. Subproblems can be designated to sub leaders, just in case.
+
+"Always Be Scaling:" From a defensive point of view, scaling can be used as a way to conserve your time, energy, and attention. Analyze your problem, start working on it, figure it out, and hope for your reward.
+
+PERSONAL REFLECTION:
+
+This chapter gives the reader an important explanation as to how leadership functions in a successful software development team. After following these three guidelines, any team leader should have a productive team working under them.
+
+RELEVANT ACTION ITEMS:
+
+As a software development team with leaders who work hard to ensure their teams are productive, I believe that by following the three principles outlined in this chapter our team can be more productive than ever.

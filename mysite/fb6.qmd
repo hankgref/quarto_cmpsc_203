@@ -1,0 +1,21 @@
+
+
+---
+title: "FB6: Fuzzing with Grammar"
+---
+
+SUMMARY OF CONTENT:
+
+"Fuzzing with Grammar" is a way to utilize fuzzing with a total called Grammars. Grammars are a programming tool which are used to generate non-numerical or alphabetical characters. This can be utilized for the fuzzing algorithm to generate multiple different algorithms for more efficient and effective fuzzing.
+
+
+PERSONAL REFLECTION:
+
+Fuzzing already serves an important purpose in our Chasten tool as it is integrated into the tool. Grammars would be a helpful tool, should they be included as well and integrated into the fuzzing tool.
+
+
+RELEVANT ACTION ITEMS:
+
+Fuzzing with grammars would enable our Chasten tool to become more efficient and productive. It would enable us to process more inputs as well as creating a tool which runs and operates faster.
+
+

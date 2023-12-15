@@ -1,0 +1,72 @@
+---
+title: "About Me"
+---
+
+Hello, my name is Henry Grefenstette. This is my software engineering website.
+
+Here are the blog reviews and assignments I’ve been working on:
+
+---
+
+GOOGLE ENGINEERING BOOK:
+
+[SE1: Software Engineering Preface](se1.qmd)
+
+[SE2: What is Software Engineering?](se2.qmd)
+
+[SE3: Best Practices for Team-Based Software Engineering](se3.qmd)
+
+[SE4: Knowledge Sharing](se4.qmd)
+
+[SE5: Engineering for Equity](se5.qmd)
+
+[SE6: How to Lead a Team](se6.qmd)
+
+[SE7: Leading at Scale](se7.qmd)
+
+[SE8: Style Guides and Rules](se8.qmd)
+
+[SE9: Code Review](se9.qmd)
+
+[SE10: Documentation](se10.qmd)
+
+[SE11: Testing Techniques](se11.qmd)
+
+[SE12: Unit Testing](se12.qmd)
+
+
+
+FUZZING BOOK:
+
+[FB1: Introduction to Software Testing](fb1.qmd)
+
+[FB2: Applying Code Coverage](fb2.qmd)
+
+[FB3: Fuzzing](fb3.qmd)
+
+[FB4: Mutation Analysis](fb4.qmd)
+
+[FB5: Mutation-based fuzzing](fb5.qmd)
+
+[FB6: Fuzzing with Grammar](fb6.qmd)
+
+[FB7: Efficient Grammar Fuzzing](fb7.qmd)
+
+[FB8: Parsing Inputs](fb8.qmd)
+
+[FB9: Reducing Failure-Inducing Inputs](fb9.qmd)
+
+
+DEBUGGING BOOK:
+
+[DB1: Introduction to Debugging](db1.qmd)
+
+[DB2: Tracing Executions](db2.qmd)
+
+[DB3: Assertions](db3.qmd)
+
+[DB4: Statistical Debugging](db4.qmd)
+
+
+
+ 

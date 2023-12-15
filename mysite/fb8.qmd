@@ -1,0 +1,24 @@
+
+
+---
+title: "FB8: Parsing Inputs"
+---
+
+SUMMARY OF CONTENT:
+
+In the chapter ["Parsing Inputs"](https://www.fuzzingbook.org/html/Parser.html) in the fuzzing book, it is discussed how grammars can perform an opposing function as to what they were used for in the previous chapter. When used with a string, grammars can be used to deconstruct it into the parts used to generate the string.
+
+These can be done through parsers, which are tools that transform standard inputs into deviation trees. This process happens by initializing the parser via a grammar tool and then proceeding to utilize the parser to obtain a series of eligible deviation trees. The parsers specifically utilized to obtain information on deviation trees are referred to as ad hoc parsers. These parsers can alter the trees in numerous ways, such as making them easier for viewing.
+
+What's worth noting is that without properly managing the deviating trees they can become unreadable. To solve this, running parse_quote() and parse_csv() is mandatory. Doing so will allow for more complex deviation trees.
+
+
+PERSONAL REFLECTION:
+
+Deviation trees are an important tool for the fuzzing book. In order for them to be used, knowledge of fuzzing is required.
+
+
+RELEVANT ACTION ITEMS:
+
+Utilizing parsing inputs are important for us as a software development team, because having legible complex deviation trees is very important for us.
+

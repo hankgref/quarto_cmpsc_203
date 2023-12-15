@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "se3.html",
+    "href": "se3.html",
+    "title": "SE3: Best Practices for Team-Based Software Engineering",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nIn the “How to Work Well on Teams” article in the Software Engineering at Google book, we learn about how software development is truly a team development and all of the intricacies which can stem from that.\nMany people that you will be working with as a software engineer are inherently flawed. Some of them will be insecure, and others will be convinced that they follow the mold of the “mythical genius” who supposedly designed operating systems singlehandedly. Part of being a good team member is learning how to deal with and communicate with the people who think this way. Understanding different perspectives is key.\nPERSONAL REFLECTION:\nAs a software development team, it is important that we understand the value of working on a team. There are many varied and diverse types of people who work on a software development team, and we should be aware of this when working on our projects.\nRELEVANT ACTION ITEMS:\nAs software engineers, we have to acknowledge the different people that we work with in our teams. We should engage in more collaborative practices as a team and avoid only working on isolated test cases and features."
+  },
+  {
+    "objectID": "se1.html",
+    "href": "se1.html",
+    "title": "SE1: Software Engineering Preface",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe introduction to “Software Engineering at Google” is an in-depth look at the challenges, tools, trials, and processes an organization uses to build and maintain code. It is not, however, meant to cover software design itself, which is stressed early on, instead focusing on the engineering aspects of software.\nPERSONAL REFLECTION:\nThe content in the introduction to this book is an excellent introduction to the world and culture of software engineering. As someone who is currently working on a software engineering project, I am optimistic that this book will show us engineers in this team some useful information.\nRELEVANT ACTION ITEMS:\nAs software engineers, it’s our job to ensure that our software is accessible, functional, and effective. It is also important that we prepare an adaptable base with tools such as DebuggingBook and Chasten, so that our team can be flexible in the face of unforeseen challenges."
+  },
+  {
+    "objectID": "se4.html",
+    "href": "se4.html",
+    "title": "SE4: Knowledge Sharing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThis chapter goes over how people working on your team should be keenly aware of the issues and problems your team is facing. After all, that is the job of your team and the spread of information is how these goals are achieved.\nIn order to create an environment where information can be freely shared, some goals must first be met. A productive environment must be created where team members can feel secure in their work, as well as feeling comfortable in discussing code which is unproductive and nonfunctional. Finally, proper documentation techniques are essential in ensuring that what information that gets shared is accurate and comprehensible by everyone involved.\nPERSONAL REFLECTION:\nAs software engineers, it is important for us that we understand the spread of information among our teams. For example, when we need to inform our teammates about something significant, we should know how to reach them through either real life or through messaging through something like Gmail or Discord.\nRELEVANT ACTION ITEMS:\nWe can improve our knowledge sharing systems by working on our systems for communication with other team members. For example, by making sure that our Discord server is productive and easy to navigate we can ensure that communication between our team members is as easy as possible. We can also ensure easy communication by keeping up frequent communication on our email accounts."
+  },
+  {
+    "objectID": "se7.html",
+    "href": "se7.html",
+    "title": "SE7: Leading at Scale",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe article “Leading at Scale” goes into detail about how to properly lead a software development team. The article explains that to do this, there are three principles of “leading at scale” to follow; “Always Be Deciding, Always Be Leaving, Always Be Scaling.” These are known as “The three Always of Leadership”\n“Always Be Deciding”: As your management duties increase and your job becomes about strategizing, there are only so many things you can spend your focus on. As a leader, you must choose your software development battles carefully. Identify your blinders, trade-offs, and decisions.\n“Always Be Leaving:” It sounds terrible, but leaving at points of failure is not a bad strategy for software development leaders. Leaving projects before they truly fail can dissuade people from joining the projects before they get even worse. Subproblems can be designated to sub leaders, just in case.\n“Always Be Scaling:” From a defensive point of view, scaling can be used as a way to conserve your time, energy, and attention. Analyze your problem, start working on it, figure it out, and hope for your reward.\nPERSONAL REFLECTION:\nThis chapter gives the reader an important explanation as to how leadership functions in a successful software development team. After following these three guidelines, any team leader should have a productive team working under them.\nRELEVANT ACTION ITEMS:\nAs a software development team with leaders who work hard to ensure their teams are productive, I believe that by following the three principles outlined in this chapter our team can be more productive than ever."
+  },
+  {
+    "objectID": "fb9.html",
+    "href": "fb9.html",
+    "title": "FB9: Reducing Failure-Inducing Inputs",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nIn the chapter “Reducing Failure-Inducing Inputs” in the fuzzing book, we are introduced to techniques which can assist us in reading complex inputs generated by fuzzers. This is achieved with automatic reducers.\nReducers take what would be a failure-inducing input and reduce the input down to its issues. This is done through ‘Reducer’ classes which achieve this function. One of the techniques these classes use is a process known as delta debugging, which can be easily “tied” to a running program and is generally far more efficient than GrammarReducer, due to the much shorter list of inputs needed.\nPERSONAL REFLECTION:\nThe reason that reducing is so important is that it allows for easier debugging. By reducing the error down to its single cause, debugging becomes much less of a hassle for software engineers.\nRELEVANT ACTION ITEMS:\nWe can utilize Reducers as software engineers to speed up the pace of debugging our software."
+  },
+  {
+    "objectID": "fb2.html",
+    "href": "fb2.html",
+    "title": "FB2: Applying Code Coverage",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe chapter “Code Coverage” is about measuring the effectiveness of software development tests and attempting to count the number of bugs and other mistakes in the code. This is done through basic fuzzing and an understanding of program execution.\nBy introducing a Python function which utilizes CGI-encoded strings which are found in URLs. CGI decoding (and encoding) transforms certain characters such as spaces into alternative characters which allows for inputs to be registered as a string. To systematically test this decoder, we have two options: black-box testing and white-box testing.\nBlack-box testing differs from white-box testing in that black-box testing is based around deriving the tests of the code from the specification of the CGI decoder, whereas white-box testing derives itself from the implementation of the structure.\nPERSONAL REFLECTION:\nKnowing how to implement coverage checks is extremely important for any programming team, and ours is no exception. Efficient testing allows for a wider array of accepted inputs as well as the amount of inputs that can be accepted simultaneously.\nRELEVANT ACTION ITEMS:\nBy utilizing the Fuzzing Book tool, we can allow our Chasten tool to accept more and varied inputs. This will allow our tool to be more productive when establishing script outputs."
+  },
+  {
+    "objectID": "fb3.html",
+    "href": "fb3.html",
+    "title": "FB3: Fuzzing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nFuzzing is a method of testing computer software so that you can be aware of potential memory leaks or input errors. Essentially, fuzzing generates several random inputs at once and then tests the software that it’s running on to check what happens when invalid inputs are ran.\nPERSONAL REFLECTION:\nWe can utilize fuzzing as a way to ensure that our script will not break down if something is incorrectly typed into the input.\nRELEVANT ACTION ITEMS:\nBy utilizing the Fuzzing Book tool, this process can be done automatically."
+  },
+  {
+    "objectID": "db3.html",
+    "href": "db3.html",
+    "title": "DB3: Assertions",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe third chapter of the book “Debugging Book” describes how assertions work, which are statements which can be used to verify the effectiveness and functionality of code.\nAssertions are excellent tools for debugging effectively. They can be used to automate debugging tasks and do not require manual implementation, allowing for quick and effective debugging. Because of this, they are very helpful for programmers when attempting to debug large amounts of code at once or various different types of code of varying complexity.\nPERSONAL REFLECTION:\nThis chapter introduces us to assertion statements, an excellent tool for debugging due to their speed and ease of use.\nRELEVANT ACTION ITEMS:\nBecause of their ease of implementation and usability, we can easily utilize assertion statements in our projects such as Chasten or Cellveyor."
+  },
+  {
+    "objectID": "db2.html",
+    "href": "db2.html",
+    "title": "DB2: Tracing Executions",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe second chapter of the book “Debugging Book” describes how tracing executions works and how to observe the state of a program during an execution.\nAfter an identifier is imported, a Tracer can be used. Tracer class functions are tools which allow logging events during program executions. An advanced subclass of these known as EventTracer also allow you to restrict logs to specific criteria.\nTracer class identifiers also allow you to restrict logs to certain events. This is done by only showing the log events if their selected values are changed.\nPERSONAL REFLECTION:\nThis chapter introduces us to tracing, a valuable tool for debugging. There are a few different kinds of ways for tracing to work, with many of them focusing on different kinds of debugging.\nRELEVANT ACTION ITEMS:\nWe can take advantage of tracing with our Chasten project to make sure that our debugging. System is well documented."
+  },
+  {
+    "objectID": "fb5.html",
+    "href": "fb5.html",
+    "title": "FB5: Mutation-based Fuzzing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nMutation-based fuzzing is a fuzzing tool which utilizes “mutations”, or random alterations in code, to create tests for inputs. We can utilize various inputs and variables to test different and valid mutations for our tool.\nPERSONAL REFLECTION:\nWe can utilize mutations in our fuzzing as a way to ensure that our script will not break down if something is incorrectly typed into the input. Multiple different variables can be used to achieve this.\nRELEVANT ACTION ITEMS:\nBy utilizing mutation-based testing, our Chasten tool can account for a wide array of different variables and inputs when ran."
+  },
+  {
+    "objectID": "fb6.html",
+    "href": "fb6.html",
+    "title": "FB6: Fuzzing with Grammar",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\n“Fuzzing with Grammar” is a way to utilize fuzzing with a total called Grammars. Grammars are a programming tool which are used to generate non-numerical or alphabetical characters. This can be utilized for the fuzzing algorithm to generate multiple different algorithms for more efficient and effective fuzzing.\nPERSONAL REFLECTION:\nFuzzing already serves an important purpose in our Chasten tool as it is integrated into the tool. Grammars would be a helpful tool, should they be included as well and integrated into the fuzzing tool.\nRELEVANT ACTION ITEMS:\nFuzzing with grammars would enable our Chasten tool to become more efficient and productive. It would enable us to process more inputs as well as creating a tool which runs and operates faster."
+  },
+  {
+    "objectID": "se10.html",
+    "href": "se10.html",
+    "title": "SE10: Documentation",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThis chapter of the “Software Engineering at Google” book dives into the topic of documentation in code. Documentation is important as it encompasses every supplemental text that software engineers could need to work on their scripts, such as comments and discussion among teammates.\nDocumentation is needed because quality documentation is an extremely helpful took for software engineering organizations. As computer code advances and becomes more complex to read, quality documentation can be important in preventing and minimizing errors.\nOne other important aspect of documentation is the importance of keeping it clear and consistent. The chapter makes it clear that inconsistent documentation is terrible for anyone attempting to read it.\nPERSONAL REFLECTION:\nThis chapter gives the reader an important explanation as to why clear documentation is important. As software engineers, we know the value of documentation as it is important to explain to others on our team why documentation is so important.\nRELEVANT ACTION ITEMS:\nWe should establish a universal outline or format for documenting code that ensures consistency across both projects, making it easier for team members to navigate and understand the code. Since different team members might contribute in various ways or focus on different aspects of the code, having a flexible yet standardized documentation format allows for a cohesive and comprehensive overview. Doing this ensures that our code will be more accessible to people working on the tool now and people who will work on it in the future."
+  },
+  {
+    "objectID": "se9.html",
+    "href": "se9.html",
+    "title": "SE9: Code Review",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe chapter “Code Review” is about how computer code is reviewed by people other than the writers. This is usually done by a process in which people in the same engineering team review it before publication or usage. Sometimes, in addition to a process, a tool is used as well to review the code.\nThis process is known as a “Code review flow”. The goal is to get another engineer to say “Looks good to me!”. First, the user will write a change to their code. Next, reviewers will open the code up to post comments on it. The author will then proceed to mail the change to another reviewer, which may cause the previous steps to be repeated if the changes were unsatisfactory. After the other reviewers approve of the changes, they will authorize the commit.\nPERSONAL REFLECTION:\nThis chapter shows us an important method of ensuring that the code in a file or script is checked to ensure its quality and functionality.\nRELEVANT ACTION ITEMS:\nAs software engineers, we are no stranger to communicating with our peers on the topic of the functionality of our code. Reworking our system so that it aligns more closely to this would certainly be beneficial, and it would likely be easy to integrate."
+  },
+  {
+    "objectID": "se8.html",
+    "href": "se8.html",
+    "title": "SE8: Style Guides and Rules",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe chapter “Style Guides and Rules” in the Software Engineering at Google book is about the organization rules which most software engineering groups have. These organization rules determine where the files are stored and how the code itself is formatted.\nThese formatting rules are strict, and considered mandatory. The name “Style guide” can be somewhat of an understatement, given that it is more than “a collection limited to formatting practices” as the article puts it, but rather it is more of an encompassing system which governs their code.\nTheir style guide is as follows: use as descriptive names as possible. Every coding language has their own rules, as they all have their own strengths, weaknesses, and purposes. Other than this, just follow the externally recognized conventions.\nPERSONAL REFLECTION:\nThis chapter shows us how a universal style guide for programming can be significant. It goes over some important stylization rules which allow for improved legibility.\nRELEVANT ACTION ITEMS:\nWe are all programmers as well as software engineers, and for that reason it is on us to ensure that our own software we have programmed is legible for everyone who views it and wants to know what aspects of it mean. For this reason, we should be careful to follow these style guidelines."
+  },
+  {
+    "objectID": "se12.html",
+    "href": "se12.html",
+    "title": "SE12: Unit Testing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThis chapter of the “Software Engineering at Google” book dives into the topic of unit testing. This is a specific kind of testing where productivity is tested, usually in a smaller test.\nUnit tests usually also tend to be easy to write and allow engineers to focus on higher levels on test coverage. Unit tests also usually make it easy to understand what’s wrong when they fail, because each test is conceptually simple. They can also serve as documentation and examples.\nUnit tests are also usually focused on maintainability because maintainability is important. Preventing things from breaking in programming is understandably important, and unit testing hopes to avert this.\nPERSONAL REFLECTION:\nUnit testing is simple, yet important. Unit tests are centered around preventing scripts from falling apart.\nRELEVANT ACTION ITEMS:\nAs the functions and scripts in our projects vary in size and complexity, as well as what parts of the Chasten project they affect, we can utilize unit testing on the smaller, yet significant, aspects of our Chasten tool."
+  },
+  {
+    "objectID": "se11.html",
+    "href": "se11.html",
+    "title": "SE11: Testing Techniques",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThis chapter of the “Software Engineering at Google” book dives into the topic of testing techniques in programming. Testing is, of course, important, so the question with testing revolves around how you do it.\nThe article goes in-depth about the various ways that software can be tested. For example, some software can be tested automatically, while other software requires a more in-depth examination in the search for errors. Deciding the size of the test is ultimately the first thing that should be done when deciding to create one.\nThe complexity of a test is important, as well. The complexity of a test can be determined by how many behaviors are being tested, if a certain input is being tested, an observable output or behavior is being targeted, or if it is being tested in a controlled environment. Ultimately, because of the wide variety of factors which go into testing, it’s incredibly varied in what suits each individual test case.\nPERSONAL REFLECTION:\nTesting is incredibly varied, with several different types and variations of them which can be utilized based on what is being tested. No matter which type of testing is selected, all of them are important.\nRELEVANT ACTION ITEMS:\nAs the functions and scripts in our projects vary in size and complexity, as well as what parts of the Chasten project they affect, we can utilize the different and varied types of testing in our software development team."
+  },
+  {
+    "objectID": "db4.html",
+    "href": "db4.html",
+    "title": "DB4: Statistical Debugging",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe fourth chapter of the book “Debugging Book” describes how statistics during debugging work. The premise of the chapter is that there is a statistical correlation between specific events during coding and failures.\nBy collecting events from tests, exceptions can be analyzed which can be used to indicate failure. These events can be visualized on a table for statistical analysis, thus furthering connections between statistical error and connected events. This information can be collected with a tool called Collector, which works by recording events based on when they occur. After these events are recorded and organized onto a table, the statistical connections can be made.\nPERSONAL REFLECTION:\nThis chapter introduces us to the idea of statistical debugging, and explains how statistics and errors can be traced to have their connections found.\nRELEVANT ACTION ITEMS:\nUtilizing statistics, we can determine when errors may be made in development for our Chasten and Conveyor tools ahead of time."
+  },
+  {
+    "objectID": "fb7.html",
+    "href": "fb7.html",
+    "title": "FB7: Efficient Grammar Fuzzing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe chapter “Efficient Grammar Fuzzing in the Fuzzing Book is used to describe more advanced fuzzing techniques, in contrast to the simple fuzzing featured in chapter 6. This is where GrammarFuzzer comes in; it’s a much more advanced tool which takes a grammar and uses it to produce valid input strings.\nBy taking several different keyword arguments, the GrammarFuzzer constructor can make use of derivation trees, or a series of branching choices for the tool based off of the input and its contents. FuzzingBook itself contains numerous tools to help make these trees function.\nThe major difference between simple_grammar_fuzzer() and GrammarFuzzer is the algorithm. GrammarFuzzer utilizes a much longer algorithm, whereas simple_grammar_fuzzer() is, unsurprisingly, simpler.\nPERSONAL REFLECTION:\nFuzzing already serves an important purpose in our Chasten tool as it is integrated into the tool. GrammarFuzzer as a function allows for much more control over the input and resulting functions than previously used algorithms.\nRELEVANT ACTION ITEMS:\nBy switching to GrammarFuzzer, we can utilize more advanced and precise fuzzing into our project."
+  },
+  {
+    "objectID": "fb4.html",
+    "href": "fb4.html",
+    "title": "FB4: Mutation Analysis",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nMutations are errors in programming that are deliberately inserted into code in order to check it for errors when ran. There are several ways to do this, many of which are through tools such as MuFunctionAnalyser or MuProgramAnalyzer. MuFunctionAnalyzer is more specific in the mutations that it creates while MuProgramAnalyzer more directly inputs them into the program.\nPERSONAL REFLECTION:\nAs Chasten utilizes frequent testing, mutations can be a critical part of checking for errors. This can be utilized by our tools to account for various ways in which programs might have incorrect code.\nRELEVANT ACTION ITEMS:\nThis is important to us because Chasten utilizes mutations and mutation-based testing to create and check for controlled errors."
+  },
+  {
+    "objectID": "fb1.html",
+    "href": "fb1.html",
+    "title": "FB1: Introduction to Software Testing",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe chapter “Introduction to Software Testing” in the Fuzzing Book shows us an introductory explanation as to what software testing is and how the process works. It gives us a simple example of a rudimentary square root function and walks us through the testing process required to authenticate its results.\nTo do this, the equation is first shown to us, then we are asked to use our understanding of Python, run the function, and then debug and check the function before executing it. We are also recommended to run this test repeatedly, as it can be done so again and again with no issue. We can also generate tests with values and run-time verifications to ensure that there will be a correct result.\nThe chapter also goes into detail about the limits of testing. The article makes it clear that we are always checking for a finite set of inputs, meaning that there may be inputs which we have not tested which may make our function fail. There are methods of testing we can use to help alleviate this, but ultimately the lack of infinite access to inputs is a problem with testing itself.\nPERSONAL REFLECTION:\nSoftware testing is important for us as software developers because it is an important process to ensure that our software is accurate and does exactly what we want it to do.\nRELEVANT ACTION ITEMS:\nBy utilizing the Fuzzing Book tool, we can utilize software testing as an effective measure to ensure all of our code works as intended in the future. An effective way for us to do this is for us to write down and keep track of all of our test cases."
+  },
+  {
+    "objectID": "db1.html",
+    "href": "db1.html",
+    "title": "DB1: Introduction to Debugging",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe first chapter of the book “Debugging Book” describes how debugging works and gives us an introduction to it.\nDebugging is typically done by running a function, and then testing it by making changes to see if the issue with it can be found. When an error is made, an error message usually accompanies it- this is used for bug testing. After visualizing the code, edits and fixes can be made until the code is functioning properly.\nPERSONAL REFLECTION:\nThis chapter introduces us to debugging, an important aspect of software development. Debugging is useful for just about every aspect of programming.\nRELEVANT ACTION ITEMS:\nWe can take advantage of debugging with our Chasten project to ensure that our project is formatted correctly and displays the correct output when an input is received."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, my name is Henry Grefenstette. This is my software engineering website.\nHere are the blog reviews and assignments I’ve been working on:\n\nGOOGLE ENGINEERING BOOK:\nSE1: Software Engineering Preface\nSE2: What is Software Engineering?\nSE3: Best Practices for Team-Based Software Engineering\nSE4: Knowledge Sharing\nSE5: Engineering for Equity\nSE6: How to Lead a Team\nSE7: Leading at Scale\nSE8: Style Guides and Rules\nSE9: Code Review\nSE10: Documentation\nSE11: Testing Techniques\nSE12: Unit Testing\nFUZZING BOOK:\nFB1: Introduction to Software Testing\nFB2: Applying Code Coverage\nFB3: Fuzzing\nFB4: Mutation Analysis\nFB5: Mutation-based fuzzing\nFB6: Fuzzing with Grammar\nFB7: Efficient Grammar Fuzzing\nFB8: Parsing Inputs\nFB9: Reducing Failure-Inducing Inputs\nDEBUGGING BOOK:\nDB1: Introduction to Debugging\nDB2: Tracing Executions\nDB3: Assertions\nDB4: Statistical Debugging"
+  },
+  {
+    "objectID": "week1.html",
+    "href": "week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nHELLO THIS IS IN WEEK1 FILE\nWOOP WOOP"
+  },
+  {
+    "objectID": "fb8.html",
+    "href": "fb8.html",
+    "title": "FB8: Parsing Inputs",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nIn the chapter “Parsing Inputs” in the fuzzing book, it is discussed how grammars can perform an opposing function as to what they were used for in the previous chapter. When used with a string, grammars can be used to deconstruct it into the parts used to generate the string.\nThese can be done through parsers, which are tools that transform standard inputs into deviation trees. This process happens by initializing the parser via a grammar tool and then proceeding to utilize the parser to obtain a series of eligible deviation trees. The parsers specifically utilized to obtain information on deviation trees are referred to as ad hoc parsers. These parsers can alter the trees in numerous ways, such as making them easier for viewing.\nWhat’s worth noting is that without properly managing the deviating trees they can become unreadable. To solve this, running parse_quote() and parse_csv() is mandatory. Doing so will allow for more complex deviation trees.\nPERSONAL REFLECTION:\nDeviation trees are an important tool for the fuzzing book. In order for them to be used, knowledge of fuzzing is required.\nRELEVANT ACTION ITEMS:\nUtilizing parsing inputs are important for us as a software development team, because having legible complex deviation trees is very important for us."
+  },
+  {
+    "objectID": "se6.html",
+    "href": "se6.html",
+    "title": "SE6: How to Lead A Team",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe article “How to Lead a Team” goes into great detail about how to function as an effective leader for a software development team. The article explains how as a leader, it isn’t always the leader’s job to directly control their team, but rather put the team into a position in which they are capable of leading themselves in most situations.\nThe chapter makes it clear that there are some qualities which are very desirable in a leader. For example, team leaders should strive to form a culture of trust and acceptance, as well as maintaining a consistent and reasonable message when communicating with their team. In addition, clear goals and achievements should be set and established for members of the team to strive for.\nOn the other hand, this chapter also outlines some qualities which are clearly not desirable for the leader of any team to have. Team leaders should avoid working with people who are spineless or do not perform tasks when given adequate time and resources. Also, team leaders should strive to avoid compromising their goals by trying to be overly friendly or bringing on subpar team members.\nPERSONAL REFLECTION:\nThis chapter provides a solid look at how teams should operate. I believe that because of the importance and significance of team leaders, it is essentials that they set the important guidelines for projects while also not being too heavy-handed in the production of the team members."
+  },
+  {
+    "objectID": "se5.html",
+    "href": "se5.html",
+    "title": "SE5: Engineering for Equity",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nThe article “Engineering for Equity” goes into detail about how a lack of equality and diversity in Google lead to negative repercussions for their development software. Due to a lack of demographic diversity in the Google engineering team, their products were unable to account for the diversity of their clients and consumers.\nThe chapter then proceeds to explain how a greater understanding of diversity and equity has positive effects on software engineering and, despite not being enough to truly stop discrimination, is key in making positive steps to engage in a multicultural capacity. No singular approach can fix such a delicate issue so easily, of course, but keeping in mind the potential differences between the developers and the users is an important practice.\nPERSONAL REFLECTION:\nThis chapter gives the reader an important explanation as to why diversity, equity, and understanding others are all important aspects of software engineering. The section describes how in detail software developers and engineers have roles to play in benefitting the world and help a wide, diverse range of clients.\nRELEVANT ACTION ITEMS:\nAs a team we can and should take into ac count different and diverse groups of people who have an interest in using our software. This can allow for Chasten to have a greater and wider userbase."
+  },
+  {
+    "objectID": "se2.html",
+    "href": "se2.html",
+    "title": "SE2: What Is Software Engineering?",
+    "section": "",
+    "text": "SUMMARY OF CONTENT:\nIn a software engineering project, software developers must be aware of the passage of time, scale, and the trade-offs associated with focusing on the necessary changes to the software going forward. Code can be expected to last anywhere from minutes to centuries, with code written by newer, inexperienced developers usually requiring hours or days, but the vast majority of code will need replacing or updating after ten years.\nOf course, the purpose of the code also impacts its longevity and usefulness before its replacement. For example, code for mobile applications and games usually only lasts a few years- far shorter than the average few decades. On the other hand, code used by millions of people frequently that serves a basic, yet essential, function may never truly be replaced, such as search engine.  The paper also goes into detail on “Hyrum’s Law”. Essentially, the more your software and its functions are used, the more important it is that all of the functions of your software work. The law understands that because of human error and the magnitude of such a potentially huge username, some mistakes that are visible are to be expected.  Change is necessary to keep code up to date, as technology and refactoring systems change and progress. If you aim for a system of nothing changing, eventually you will be forced to change your code anyway due to software progressing. Learning to scale your policies so that they are reasonably able to be changed is a large part of programming and developing new software.\nThe further along you are in software development, the more expensive security can be. It is easier to fix errors and mistakes in your software sooner rather than later, as the cost goes up exponentially. Understanding the necessary trade-offs and costs to take care of these are key.\nPERSONAL REFLECTION:\nThe content in this section of the document is excellent at making us focus on the importance of updating our code and keeping it up-to-date with the current refactoring systems and modern hardware. Therefore, we must strive to ensure that every step of our engineering assignment is well programmed and secure for future use, as the more our tool becomes capable of, the more people will notice mistake we make.\nRELEVANT ACTION ITEMS:\nAs software engineers, it’s our job to ensure that our software is modern and functional. Therefore, we should keep our tools such as Chasten and PyProject updated whenever possible so that when we do update our code, it is when we have full control over it."
+  }
+]

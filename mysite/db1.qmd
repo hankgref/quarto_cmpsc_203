@@ -1,0 +1,20 @@
+
+
+---
+title: "DB1: Introduction to Debugging"
+---
+
+SUMMARY OF CONTENT:
+
+The first chapter of the book "Debugging Book" describes how debugging works and gives us an introduction to it. 
+
+Debugging is typically done by running a function, and then testing it by making changes to see if the issue with it can be found. When an error is made, an error message usually accompanies it- this is used for bug testing. After visualizing the code, edits and fixes can be made until the code is functioning properly.
+
+
+PERSONAL REFLECTION:
+
+This chapter introduces us to debugging, an important aspect of software development. Debugging is useful for just about every aspect of programming.
+
+RELEVANT ACTION ITEMS:
+
+We can take advantage of debugging with our Chasten project to ensure that our project is formatted correctly and displays the correct output when an input is received.

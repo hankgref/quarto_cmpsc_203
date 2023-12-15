@@ -1,0 +1,7 @@
+- source: project
+  quarto-pub:
+    - id: 443a008e-70bc-475f-b192-b0ba3337d97e
+      url: 'https://hgrefenstette.quarto.pub/hgrefenstette'
+  netlify:
+    - id: 27a56b7b-a7ef-4a0e-8879-ed6176ce12a5
+      url: 'https://jocular-marzipan-7ef8f1.netlify.app'

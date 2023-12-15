@@ -1,0 +1,18 @@
+
+
+---
+title: "SE6: How to Lead A Team"
+---
+
+SUMMARY OF CONTENT:
+
+The article "How to Lead a Team" goes into great detail about how to function as an effective leader for a software development team. The article explains how as a leader, it isn't always the leader's job to directly control their team, but rather put the team into a position in which they are capable of leading themselves in most situations.
+
+The chapter makes it clear that there are some qualities which are very desirable in a leader. For example, team leaders should strive to form a culture of trust and acceptance, as well as maintaining a consistent and reasonable message when communicating with their team. In addition, clear goals and achievements should be set and established for members of the team to strive for.
+
+On the other hand, this chapter also outlines some qualities which are clearly not desirable for the leader of any team to have. Team leaders should avoid working with people who are spineless or do not perform tasks when given adequate time and resources. Also, team leaders should strive to avoid compromising their goals by trying to be overly friendly or bringing on subpar team members.
+
+PERSONAL REFLECTION:
+
+This chapter provides a solid look at how teams should operate. I believe that because of the importance and significance of team leaders, it is essentials that they set the important guidelines for projects while also not being too heavy-handed in the production of the team members.
+

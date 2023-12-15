@@ -1,0 +1,21 @@
+
+
+---
+title: "SE4: Knowledge Sharing"
+---
+
+SUMMARY OF CONTENT:
+
+This chapter goes over how people working on your team should be keenly aware of the issues and problems your team is facing. After all, that is the job of your team and the spread of information is how these goals are achieved.
+
+In order to create an environment where information can be freely shared, some goals must first be met. A productive environment must be created where team members can feel secure in their work, as well as feeling comfortable in discussing code which is unproductive and nonfunctional. Finally, proper documentation techniques are essential in ensuring that what information that gets shared is accurate and comprehensible by everyone involved.
+
+
+PERSONAL REFLECTION:
+
+As software engineers, it is important for us that we understand the spread of information among our teams. For example, when we need to inform our teammates about something significant, we should know how to reach them through either real life or through messaging through something like Gmail or Discord.
+
+
+RELEVANT ACTION ITEMS:
+
+We can improve our knowledge sharing systems by working on our systems for communication with other team members. For example, by making sure that our Discord server is productive and easy to navigate we can ensure that communication between our team members is as easy as possible. We can also ensure easy communication by keeping up frequent communication on our email accounts.

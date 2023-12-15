@@ -1,0 +1,19 @@
+
+
+---
+title: "DB3: Assertions"
+---
+
+SUMMARY OF CONTENT:
+
+The third chapter of the book "Debugging Book" describes how assertions work, which are statements which can be used to verify the effectiveness and functionality of code.
+
+Assertions are excellent tools for debugging effectively. They can be used to automate debugging tasks and do not require manual implementation, allowing for quick and effective debugging. Because of this, they are very helpful for programmers when attempting to debug large amounts of code at once or various different types of code of varying complexity.
+
+PERSONAL REFLECTION:
+
+This chapter introduces us to assertion statements, an excellent tool for debugging due to their speed and ease of use.
+
+RELEVANT ACTION ITEMS:
+
+Because of their ease of implementation and usability, we can easily utilize assertion statements in our projects such as Chasten or Cellveyor.
